@@ -6,7 +6,7 @@ var username = 'coder2k19';
 var password = 'RjX6uBYj';
 var shared_secret = '';
 
-var games = [730, 440, 570];
+var games = [730, 578080, 570];
 var status = 1;
 
 
